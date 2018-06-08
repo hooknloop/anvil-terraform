@@ -1,4 +1,4 @@
 = Home
 
 
-made with asciidoc: http://assciidoc.org
+made with asciidoc: http://asciidoc.org
